@@ -1,8 +1,6 @@
 # air-quality-analytics
 Interactive Power BI dashboard for analyzing Jakarta Air Quality Index (ISPU) data using data visualization and analytics techniques.
 
-My first self-project using Microsoft Power BI to explore and visualize Jakarta Air Quality Index (AQI/ISPU) data. This project was created as a learning exercise to become familiar with Power BI, dashboard design, data visualization, and basic data analysis.
-
 # Overview
 My first self-project using Microsoft Power BI to explore and visualize Jakarta Air Quality Index (AQI/ISPU) data. This project was created as a learning exercise to become familiar with Power BI, dashboard design, data visualization, and basic data analysis.
 
